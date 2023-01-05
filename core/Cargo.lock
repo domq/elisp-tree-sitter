@@ -249,8 +249,8 @@ dependencies = [
 
 [[package]]
 name = "tree-sitter"
-version = "0.20.0"
-source = "git+https://github.com/ubolonton/tree-sitter?branch=improve-text-provider#475b822f47bdc58d832533448b6f6d9818554f37"
+version = "0.20.9"
+source = "git+https://github.com/domq/tree-sitter?branch=improve-text-provider#f09ed52f95f230f18452139d9bd3fd6e372a5726"
 dependencies = [
  "cc",
  "regex",
